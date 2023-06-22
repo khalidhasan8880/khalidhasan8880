@@ -1,7 +1,7 @@
 
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://i.ibb.co/tmd2jX2/junior-react-developer.jpg)
 
+[![MasterHead](https://i.ibb.co/tmd2jX2/junior-react-developer.jpg)](https://i.ibb.co/tmd2jX2/junior-react-developer.jpg)
 <h1 align="center">Hi 👋, I'm Khalid Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
